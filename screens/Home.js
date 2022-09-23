@@ -1,10 +1,8 @@
 import React from 'react';
 import { View } from 'react-native';
 
-const Home = () => {
+export default function Home() {
   return (
     <View>Home</View>
   )
 }
-
-export default Home

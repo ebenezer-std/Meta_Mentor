@@ -1,10 +1,8 @@
 import React from 'react';
 import { View } from 'react-native';
 
-const Mentee = () => {
+export const Mentee = () => {
   return (
     <View>Mentee</View>
   )
 }
-
-export default Mentee
